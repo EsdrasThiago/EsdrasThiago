@@ -2,7 +2,7 @@
 
 ![gif](https://user-images.githubusercontent.com/106774516/201214480-aad83fd2-ee63-481b-8473-6d2fb828ea0f.gif)
 
-<h1>Quem sou? 🫡</h1>
+<h1>Quem sou? 😁</h1>
 
 <p>Meu nome é Esdras, mas se preferir pode me chamar de Thiago</p>
 
