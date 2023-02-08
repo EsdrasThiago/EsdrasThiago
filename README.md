@@ -10,9 +10,12 @@
 
 <p>Desde pequeno sempre me interessei pela internet e pela programação, querendo me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe, hoje em dia sou um desenvolvedor Frontend e estou estudando sobre o Backend em busca de me tornar um desenvolvedor FullStack</p>
 
-<h1>Frontend 😎</h1>
+<h1>Linguagens de programação 📚</h1>
 
 ![javascript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<h1>Frontend 😎</h1>
+
 ![css](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
