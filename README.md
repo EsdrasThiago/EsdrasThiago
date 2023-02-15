@@ -43,7 +43,7 @@
 
 </a>
 
-Email: esdras12thiago@gmail.com
+![email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white) esdras12thiago@gmail.com
   
 <h1>Graficos 🤓</h1>
 
