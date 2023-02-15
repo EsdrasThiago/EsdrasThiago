@@ -42,6 +42,8 @@
 ![whatsapp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </a>
+
+Email: esdras12thiago@gmail.com
   
 <h1>Graficos 🤓</h1>
 
