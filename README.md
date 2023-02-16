@@ -43,7 +43,7 @@
 
 </a>
 </a>
-<a href="https://www.google.com">
+<a href="https://esdras-email.netlify.app/">
 
 ![gmail](https://img.shields.io/badge/esdras12thiago@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
 
