@@ -42,10 +42,12 @@
 ![whatsapp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </a>
-<p>
-esdras12thiago@gmail.com
-  
-</p>
+</a>
+<a href="https://www.google.com">
+
+![gmail](https://img.shields.io/badge/esdras12thiago@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
+
+</a>
 <h1>Graficos 🤓</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsdrasThiago&show_icons=true&theme=tokyonight&locale=pt-br&border_color=000000&icon_color=000000)                                                                                                                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasThiago&theme=tokyonight&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
