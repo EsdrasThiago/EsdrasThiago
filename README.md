@@ -8,7 +8,7 @@
 
 <h1>Por que comecei a programar? 🤖</h1>
 
-<p>Desde pequeno sempre me interessei pela internet e pela programação, querendo me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe, hoje em dia sou um desenvolvedor FullStack e estou atrás de experiencia profissional</p>
+<p>Desde pequeno sempre me interessei pela internet e pela programação, querendo me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe, pretendo ainda estudar programação voltada a jogos mas só como hobbie, hoje em dia sou um desenvolvedor FullStack e estou atrás de experiencia profissional</p>
 
 <h1>Linguagens de programação 📚</h1>
 
