@@ -2,10 +2,6 @@
 
 ![gif](https://user-images.githubusercontent.com/106774516/201214480-aad83fd2-ee63-481b-8473-6d2fb828ea0f.gif)
 
-<h1>Quem sou? 😁</h1>
-
-<p>Meu nome é Esdras, mas se preferir pode me chamar de Thiago</p>
-
 <h1>Por que comecei a programar? 🤖</h1>
 
 <p>Desde pequeno sempre me interessei pela internet e pela programação, querendo me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe, pretendo ainda estudar programação voltada a jogos mas só como hobbie, hoje em dia sou um desenvolvedor FullStack e estou atrás de experiencia profissional</p>
@@ -13,6 +9,7 @@
 <h1>Linguagens de programação 📚</h1>
 
 ![javascript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
 <h1>Frontend 😎</h1>
 
@@ -25,10 +22,15 @@
 
 ![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=white)
 ![TestingLibrary](https://img.shields.io/badge/testing_library-0D1117?style=for-the-badge&logo=testing-library&logoColor=red)
+![Sinon](https://img.shields.io/badge/Sinon-0D1117?style=for-the-badge&logo=sinon&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-0D1117?style=for-the-badge&logo=chai&logoColor=A30701)
 
 <h1>Backend 💻</h1>
 
-<img src="https://user-images.githubusercontent.com/106774516/201224392-13cc8ad3-67b7-4dd9-9450-df38417539a7.gif" alt="loading" height="20px" weight="20px"/><img src="https://user-images.githubusercontent.com/106774516/201224392-13cc8ad3-67b7-4dd9-9450-df38417539a7.gif" alt="loading" height="20px" weight="20px"/><img src="https://user-images.githubusercontent.com/106774516/201224392-13cc8ad3-67b7-4dd9-9450-df38417539a7.gif" alt="loading" height="20px" weight="20px"/>
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=green)
+![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 
 <h1>Contatos 🤳</h1>
 
