@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/React_Redux-0D1117?style=for-the-badge&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-0D1117?style=for-the-badge&logo=axios&logoColor=purple)
 
 <h1>Testes 👨‍💻</h1>
 
@@ -24,6 +25,7 @@
 ![TestingLibrary](https://img.shields.io/badge/testing_library-0D1117?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Sinon](https://img.shields.io/badge/Sinon-0D1117?style=for-the-badge&logo=sinon&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-0D1117?style=for-the-badge&logo=chai&logoColor=A30701)
+![Mocha](https://img.shields.io/badge/Mocha-0D1117?style=for-the-badge&logo=mocha&logoColor=brown)
 
 <h1>Backend 💻</h1>
 
