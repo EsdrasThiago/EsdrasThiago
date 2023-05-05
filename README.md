@@ -2,9 +2,32 @@
 
 ![gif](https://user-images.githubusercontent.com/106774516/201214480-aad83fd2-ee63-481b-8473-6d2fb828ea0f.gif)
 
-<h1>Por que comecei a programar? 🤖</h1>
+<h1>Sobre Mim 🤖</h1>
 
-<p>Desde pequeno sempre me interessei pela internet e pela programação, querendo me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe, pretendo ainda estudar programação voltada a jogos mas só como hobbie, hoje em dia sou um desenvolvedor FullStack e estou atrás de experiencia profissional</p>
+<h2>Por que comecei a programar?</h2>
+
+<p>Desde pequeno sempre me interessei pela programação e queria me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe</p>
+
+<h2>Hobbies</h2>
+
+<h3>Jogos</h3>
+
+```javascript
+const favoriteGames = [
+  {
+    gameName: 'Hyper Light Drifter',
+    genres: ['Hack and Slash', 'Metroidvania', 'Soulslike']
+  },
+  {
+    gameName: 'Apex Legends',
+    genres: ['FPS', 'Battle Royale']
+  },
+  {
+    gameName: 'Phasmophobia',
+    genres: ['Terror', 'Investigação']
+  }
+];
+```
 
 <h1>Linguagens de programação 📚</h1>
 
