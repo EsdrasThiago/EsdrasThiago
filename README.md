@@ -6,11 +6,9 @@
 
 <h2>Por que comecei a programar?</h2>
 
-<p>Desde pequeno sempre me interessei pela programação e queria me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe</p>
+<p>Desde pequeno sempre me interessei pela programação e queria me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe, hoje em dia sou programador fullstack porém pretendo continuar estudando mais e mais</p>
 
-<h2>Hobbies</h2>
-
-<h3>Jogos</h3>
+<h2>Jogos</h2>
 
 ```javascript
 const favoriteGames = [
