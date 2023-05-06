@@ -6,7 +6,7 @@
 
 <h2>Por que comecei a programar?</h2>
 
-<p>Desde pequeno sempre me interessei pela programação e queria me tornar um desenvolvedor de jogos, porém depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe, hoje em dia sou programador fullstack porém pretendo continuar estudando mais e mais</p>
+<p>Desde pequeno sempre me interessei pela programação, depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe onde me tornei um desenvolvedor FullStack</p>
 
 <h2>Jogos</h2>
 
@@ -70,7 +70,8 @@ const favoriteGames = [
 </a>
 <a href="https://esdras-email.netlify.app/">
 
-![gmail](https://img.shields.io/badge/esdras12thiago@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
+![gmail](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
+esdras12thiago@gmail.com
 
 </a>
 <h1>Graficos 🤓</h1>
