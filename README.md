@@ -8,25 +8,6 @@
 
 <p>Desde pequeno sempre me interessei pela programação, depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe onde me tornei um desenvolvedor FullStack</p>
 
-<h2>Jogos</h2>
-
-```javascript
-const favoriteGames = [
-  {
-    gameName: 'Hyper Light Drifter',
-    genres: ['Hack and Slash', 'Metroidvania', 'Soulslike']
-  },
-  {
-    gameName: 'Apex Legends',
-    genres: ['FPS', 'Battle Royale']
-  },
-  {
-    gameName: 'Phasmophobia',
-    genres: ['Terror', 'Investigação']
-  }
-];
-```
-
 <h1>Linguagens de programação 📚</h1>
 
 ![javascript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
