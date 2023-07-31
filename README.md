@@ -2,8 +2,6 @@
 
 ![gif](https://user-images.githubusercontent.com/106774516/201214480-aad83fd2-ee63-481b-8473-6d2fb828ea0f.gif)
 
-<h1>Sobre Mim 🤖</h1>
-
 <h2>Por que comecei a programar?</h2>
 
 <p>Desde pequeno sempre me interessei pela programação, depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe onde me tornei um desenvolvedor FullStack</p>
@@ -36,27 +34,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 
-<h1>Contatos 🤳</h1>
-
-<a href="https://www.linkedin.com/in/esdras-dev/">
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)
-
-</a>
-<a href="https://wa.me/557187715350">
-
-![whatsapp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-</a>
-</a>
-<a href="https://esdras-email.netlify.app/">
-
-![gmail](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
-esdras12thiago@gmail.com
-
-</a>
 <h1>Graficos 🤓</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsdrasThiago&show_icons=true&theme=tokyonight&locale=pt-br&border_color=000000&icon_color=000000)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasThiago&theme=tokyonight&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsdrasThiago&show_icons=true&theme=tokyonight&locale=pt-br&border_color=000000&icon_color=000000)
