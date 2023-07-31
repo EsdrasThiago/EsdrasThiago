@@ -33,8 +33,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
-
-<h1>Graficos 🤓</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasThiago&theme=tokyonight&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsdrasThiago&show_icons=true&theme=tokyonight&locale=pt-br&border_color=000000&icon_color=000000)
