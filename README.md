@@ -4,7 +4,7 @@
 
 <h2>Por que comecei a programar?</h2>
 
-<p>Desde pequeno sempre me interessei pela programação, depois que cresci tive a decisão de focar em desenvolvimento web e então entrar na Trybe onde me tornei um desenvolvedor FullStack</p>
+<p>Desde pequeno sempre me interessei pela programação, depois que cresci tive a decisão de focar em desenvolvimento web e então entrei na Trybe onde me tornei um desenvolvedor FullStack</p>
 
 <h1>Linguagens de programação 📚</h1>
 
